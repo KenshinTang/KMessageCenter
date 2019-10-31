@@ -1,0 +1,2 @@
+include ':Demo', ':MessageCenter'
+rootProject.name='KMessageCenter'
